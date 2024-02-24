@@ -4,5 +4,4 @@ function esVocal(letra) {
   // Si no es vocal, tambien debe retornar "Dato incorrecto".
   // Tu código:
 }
-
 module.exports = esVocal;
